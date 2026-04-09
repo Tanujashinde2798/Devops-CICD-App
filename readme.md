@@ -239,23 +239,75 @@ You should see your application running.
 ## 📸 Screenshots
 
 1. Jenkins dashboard showing pipeline `devops-cicd`
-  <img width="1895" height="651" alt="Jenkins Dashboard showing pipeline" src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20234907.png" />
+   <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20234907.png"
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="Jenkins Dashboard showing pipeline"
+  />
+</div>
 
-3. Jenkins dashboard showing pipeline `devops-cicd`
-    <img width="1868" height="868" alt="Jenkins Stage View (all green)" src="https://github.com/user-attachments/assets/252a77f0-fd35-4ac3-a59b-cdbc0c5c01e2" />
+2. Jenkins dashboard showing pipeline `devops-cicd`
+    <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20234842.png" 
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+  />
+</div>
 
-5. Build logs of a successful run
-    <img width="1386" height="827" alt="Build logs" src="https://github.com/user-attachments/assets/52cdf1b8-5f01-4def-bdcc-5ef74d4fbfbf" />
+3. Build logs of a successful run
+    <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20235327.png"
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="Console Output Succesful Run"
+  />
+</div>
 
-7. EC2 terminal showing `docker ps` with running container
-    <img width="1915" height="752" alt="EC2 terminal with docker ps showing container running" src="https://github.com/user-attachments/assets/bb861fdf-5609-4224-ba15-31edafb451af" />
+4. EC2 terminalon Mobaexterm showing `docker ps` with running container
+    <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-10%20010453.png"
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="Docker ps on MobaXterm terminal"
+  />
+</div>
 
-9. Browser showing app running at `http://<EC2-IP>`
-    <img width="1363" height="953" alt="Browser showing app running at httpEC2-IP" src="https://github.com/user-attachments/assets/b821ca39-26a7-4162-8936-837b23931500" />
+5. Browser showing app running at `http://<EC2-IP>`
+    <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20234842.png"
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="Jenkins Dashboard"
+  />
+</div>
 
-11. AWS ECR console showing pushed image
-    <img width="1720" height="748" alt="AWS ECR console" src="https://github.com/user-attachments/assets/67c2fcad-d7ad-46cb-8f5b-7cfa93c18eae" />
-
+6. AWS ECR console showing pushed image
+    <div style="overflow:hidden; display:inline-block;">
+  <img 
+    src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20235029.png"
+    width="500"
+    style="transition: transform 0.3s ease;"
+    onmouseover="this.style.transform='scale(1.1)'"
+    onmouseout="this.style.transform='scale(1)'"
+    alt="AWS ECR Registry"
+  />
+</div>
 
 ---
 
