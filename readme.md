@@ -239,7 +239,7 @@ You should see your application running.
 ## 📸 Screenshots
 
 1. Jenkins dashboard showing pipeline `devops-cicd`
-   <img width="1895" height="651" alt="Jenkins Dashboard showing pipeline" src="https://github.com/user-attachments/assets/1bd2897d-8eda-4b32-8590-f7f4923f729f" />
+  <img width="1895" height="651" alt="Jenkins Dashboard showing pipeline" src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-09%20234907.png" />
 
 3. Pipeline stage view with all stages green
     <img width="1868" height="868" alt="Jenkins Stage View (all green)" src="https://github.com/user-attachments/assets/252a77f0-fd35-4ac3-a59b-cdbc0c5c01e2" />
