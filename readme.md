@@ -274,7 +274,7 @@ You should see your application running.
   />
 </div>
 
-4. EC2 terminalon Mobaexterm showing `docker ps` with running container
+4. EC2 terminal on Mobaexterm showing `docker ps` with running container
     <div style="overflow:hidden; display:inline-block;">
   <img 
     src="https://github.com/Tanujashinde2798/Devops-CICD-App/raw/main/Screenshot%202026-04-10%20010453.png"
